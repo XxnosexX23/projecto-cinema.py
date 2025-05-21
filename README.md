@@ -25,4 +25,10 @@ Este proyecto simula la venta de boletos y combos de comida en un cine. Utiliza 
 
 este proyecto esta licenciado bajo la licencia MIT. consulta el archivo [LICENSE](LICENSE) para mas informacion
 
+### PD:
+
+- si quieren comentarios mas bonitos y tienen vscode pueden instalar la extension "Better Comments" de "Aaron Bond" asi todo se va a ver un poco mas colorido
+
+- este es mi primer projecto que subo en publico a github, espero les guste ;)
+
 ---
