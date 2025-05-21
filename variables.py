@@ -22,3 +22,5 @@ combo_1_sold = 0
 combo_2_sold = 0
 combo_3_sold = 0
 drinks_sold = 0
+
+none = 0  # Contador de clientes que no compraron nada
